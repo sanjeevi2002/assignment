@@ -1,3 +1,6 @@
+//C program to create student database using MongoDB
+
+
 #include <mongoc/mongoc.h>
 #include <stdio.h>
 #include <stdlib.h>
